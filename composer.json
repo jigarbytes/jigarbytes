@@ -8,9 +8,15 @@
     {
       "name": "Bytes",
       "email": "info@bytestechnolab.com",
-      "homepage": "http://bytestechnolab.com"
+      "homepage": "http://bytestechnolab.com",
     },
   ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org",
+    }
+  ],  
   "require": {
     "php": ">=5.6",
     "composer/installers": "^1.4",
