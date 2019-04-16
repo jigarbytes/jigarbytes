@@ -23,14 +23,14 @@
       "url": "https://wpackagist.org"
     }
   ],
-   "require": {
+  "require": {
     "php": ">=7.1",
-    "composer/installers": "dev-master",
-    "vlucas/phpdotenv": "dev-master",
-    "oscarotero/env": "dev-master",
-    "roots/wordpress": "dev-master",
-    "roots/wp-config": "dev-master",
-    "roots/wp-password-bcrypt": "dev-master"
+    "composer/installers": "^1.4",
+    "vlucas/phpdotenv": "^3.0.0",
+    "oscarotero/env": "^1.1.0",
+    "roots/wordpress": "5.1.1",
+    "roots/wp-config": "1.0.0",
+    "roots/wp-password-bcrypt": "1.0.0"
   },
   "minimum-stability" : "dev",
   "prefer-stable": true,
