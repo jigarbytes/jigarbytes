@@ -23,6 +23,8 @@
       "url": "https://wpackagist.org"
     }
   ],
+  "minimum-stability" : "dev",
+  "prefer-stable": true,
   "require": {
     "php": ">=7.1",
     "composer/installers": "^1.4",
@@ -32,8 +34,6 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0"
   },
-  "minimum-stability" : "dev",
-  "prefer-stable": true,
   "require-dev": {
     "squizlabs/php_codesniffer": "dev-master",
     "roave/security-advisories": "dev-master"
