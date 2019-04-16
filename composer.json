@@ -9,8 +9,7 @@
       "name": "Bytes",
       "email": "info@bytestechnolab.com",
       "homepage": "http://bytestechnolab.com"
-    },
-
+    }
   ],
   "keywords": [
    "wordpress", "stack", "composer", "vagrant", "wp"
