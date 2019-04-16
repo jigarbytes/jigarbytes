@@ -30,7 +30,7 @@
     "oscarotero/env": "*",
     "roots/wordpress": "*",
     "roots/wp-config": "*",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "*"
   },
   "version": "1.0.2",
   "extra": {
