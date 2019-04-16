@@ -32,6 +32,8 @@
     "roots/wp-config": "dev-master",
     "roots/wp-password-bcrypt": "dev-master"
   },
+  "minimum-stability" : "dev",
+  "prefer-stable": true,
   "require-dev": {
     "squizlabs/php_codesniffer": "dev-master",
     "roave/security-advisories": "dev-master"
