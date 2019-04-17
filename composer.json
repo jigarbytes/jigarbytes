@@ -1,6 +1,7 @@
 {
   "name": "jigarbytes/jigarbytes",
   "type": "project",
+  "version": "1.1.1",
   "license": "MIT",
   "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
   "homepage": "https://bytestechnolab.com",
@@ -38,7 +39,6 @@
     "squizlabs/php_codesniffer": "dev-master",
     "roave/security-advisories": "dev-master"
   },
-  "version": "1.0.1",
   "extra": {
     "installer-paths": {
       "web/app/mu-plugins/{$name}/": ["type:wordpress-muplugin"],
